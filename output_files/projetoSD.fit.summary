@@ -1,0 +1,20 @@
+Fitter Status : Successful - Thu Feb 17 09:18:02 2022
+Quartus Prime Version : 17.0.0 Build 595 04/25/2017 SJ Lite Edition
+Revision Name : projetoSD
+Top-level Entity Name : projetoSD
+Family : Cyclone V
+Device : 5CGXFC9E6F35C7
+Timing Models : Final
+Logic utilization (in ALMs) : 7,379 / 113,560 ( 6 % )
+Total registers : 13158
+Total pins : 233 / 616 ( 38 % )
+Total virtual pins : 0
+Total block memory bits : 18,282 / 12,492,800 ( < 1 % )
+Total RAM Blocks : 64 / 1,220 ( 5 % )
+Total DSP Blocks : 50 / 342 ( 15 % )
+Total HSSI RX PCSs : 0 / 12 ( 0 % )
+Total HSSI PMA RX Deserializers : 0 / 12 ( 0 % )
+Total HSSI TX PCSs : 0 / 12 ( 0 % )
+Total HSSI PMA TX Serializers : 0 / 12 ( 0 % )
+Total PLLs : 0 / 20 ( 0 % )
+Total DLLs : 0 / 4 ( 0 % )

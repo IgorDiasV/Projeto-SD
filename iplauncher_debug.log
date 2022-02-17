@@ -1,0 +1,2 @@
+fev 17, 2022 8:17:01 AM java.util.prefs.WindowsPreferences <init>
+ADVERTÊNCIA: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
